@@ -4,7 +4,7 @@ This is a responsive website prototype designed for a real client.
 Built with HTML, CSS and JavaScript.
 
 ## 🔗 Live Demo
-[Click here to view](https://pnam11.github.io/MY-CV/page5/index.html)
+[Click here to view](https://pnam11.github.io/MY-CV/index.html))
 
 ## 🛠 Technologies Used
 - HTML5
