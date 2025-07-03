@@ -17,7 +17,7 @@ Built with HTML, CSS and JavaScript.
 - HTML5
 - CSS3 (Flexbox & Media Queries)
 - JavaScript
-- - Git & GitHub Pages
+- Git & GitHub Pages
 
 ## 📌 Features
 - Fully responsive layout
