@@ -1,4 +1,4 @@
-# MY-CV – Personal Website (Prototype)
+# MY-CV – Frontend Dự Án Bán Hàng
 
 This is a responsive website prototype designed for a real client.  
 Built with HTML, CSS and JavaScript.
@@ -17,6 +17,7 @@ Built with HTML, CSS and JavaScript.
 - HTML5
 - CSS3 (Flexbox & Media Queries)
 - JavaScript
+- - Git & GitHub Pages
 
 ## 📌 Features
 - Fully responsive layout
