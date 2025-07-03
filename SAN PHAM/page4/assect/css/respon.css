@@ -1,0 +1,135 @@
+
+@media (max-width: 1366px) {
+    
+}
+
+@media (max-width: 1200px) {
+    
+}
+@media (max-width: 720px) {
+    
+}
+@media (max-width: 768px) {
+    
+}
+@media (max-width: 320px) {
+    
+}
+@media (max-width: 480px) {
+    
+}
+@media (max-width: 600px) {
+    
+}
+@media (max-width: 870px) {
+    
+    .top-page{
+        display: none;
+    }
+    .name-info-menu h3 {
+        font-size: 35px;
+        width: 100%;
+        padding-left: 26px;
+    }
+    .name-info-menu {
+
+    }
+    .item-menu{
+        width: 73%;
+    }
+    
+    .info-menu-page{
+        display: flex;
+        justify-content: space-between;
+    }
+    .item-menu ul{
+        padding: 0px 9px 0px 59px;
+        /* display: flex; */
+    }
+    .title-slide {
+        
+    left: 107px;
+            
+    top: 48px;
+        }
+        .title-slide h3 {
+
+    font-size: 35px;
+
+    }
+        .title-slide p {
+
+    font-size: 10px;
+
+    }
+        .title-slide a input {
+
+    width: 102px;
+
+    height: 37px;
+
+    font-size: 10px;
+
+    }
+    .info-page1 {
+        
+margin: auto;
+    }
+    .item-page1 {
+        width: calc((100% / 2) - 20px);
+
+    }
+    .info-page2 {
+        display: inherit;
+    }
+    .gioithieu {
+        display: flex;
+        justify-content: flex-start;
+    }
+    .decs-page2-info {
+        padding: 26px 20px;
+        width: 95%;
+    }
+    .img-info-page2 {
+
+width: 100%;
+
+display: flex;
+
+justify-content: center;
+}
+.img-info-page2 p {
+    left: 158px;
+}
+.decs-page2-info h3 {
+
+font-size: 32px;
+}
+.decs-page2-info .gioithieu p {
+    font-size: 14px;
+}
+.decs-page2-info .info-gioithieu {
+    
+line-height: 30px;
+    
+font-size: 14px;
+}
+.decs-page2-info .xemthem .xemthem-btn input {
+    
+font-size: 14px;
+    
+width: 141px;
+    
+height: 42px;
+}
+.decs-page2-info .xemthem .xemthem-icon span {
+    
+width: 45px;
+    
+height: 45px;
+}
+.decs-page2-info .xemthem .xemthem-icon p {
+    font-size: 14px;
+}
+div.slide .slick-prev{/* display: none; */}
+}
